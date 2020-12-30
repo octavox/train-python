@@ -9,3 +9,4 @@
 * Volcán Negro
 * Atom
 * Batwoman
+* Batboy
